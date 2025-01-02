@@ -13,10 +13,8 @@ Features:
 
 Two important steps you need to follow:
 1. Add `python` to the environment
-   
- [Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTsKBgt67g7V83MUa-6I2Ex33DrnrxBDwMw&s)
-  
-2. Source the `.bashrc` file
+2. ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTsKBgt67g7V83MUa-6I2Ex33DrnrxBDwMw&s)
+3. Source the `.bashrc` file
 
 Check whether `python` is properly set or not:
 
